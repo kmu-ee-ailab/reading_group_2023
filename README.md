@@ -1,4 +1,4 @@
-# KMU AI_lab Reading Group
+# KMU AI_lab Reading Group - 2023
 
 Time
 - Tuesday  3:00 PM
